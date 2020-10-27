@@ -63,11 +63,11 @@
 
 </details>
 
-[sql]: https://findeepak.com
-[mysql]: https://findeepak.com
-[mongodb]: https://findeepak.com
+[sql]: https://finddeepak.com
+[mysql]: https://finddeepak.com
+[mongodb]: https://finddeepak.com
 [github]: https://github.com/deepak1725
-[website]: https://findeepak.com
+[website]: https://finddeepak.com
 [twitter]: https://twitter.com/deepak1725
 [youtube]: https://www.youtube.com/channel/UCBBI7N8ztHN8TTNMtP3cm3g/
 [instagram]: https://instagram.com/deepak1725
