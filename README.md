@@ -46,8 +46,8 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-* [Pycamp SCE 2020: Session on "Getting Started with Python" in colab with Girlscript Bangalore.](youtube_video1)
-* [DevConf US 2020: Talk on "Develop Secure and compliant applications with IDE.][youtube_video2]
+- [Develop Secure and Compliant Applications via IDE | Deepak Sharma | Yusuf Zainee](https://www.youtube.com/watch?v=QDBQdNLMRHo)
+- [Dependency Analytics by Deepak Sharma and Yusuf Zainee](https://www.youtube.com/watch?v=zy7-2AMOjIs)
 <!-- YOUTUBE:END -->
 ---
 
