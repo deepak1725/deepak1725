@@ -49,6 +49,7 @@
 - [Develop Secure and Compliant Applications via IDE | Deepak Sharma | Yusuf Zainee](https://www.youtube.com/watch?v=QDBQdNLMRHo)
 - [Dependency Analytics by Deepak Sharma and Yusuf Zainee](https://www.youtube.com/watch?v=zy7-2AMOjIs)
 <!-- YOUTUBE:END -->
+- [Pycamp Guest Session on "Getting Started with Python"](https://www.youtube.com/watch?v=oqNbnN5f-wk&feature=youtu.be)
 ---
 
 ### 📕 Latest Blog Posts
