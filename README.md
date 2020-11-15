@@ -54,6 +54,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [“Hello World” with Operator SDK](https://medium.com/tech-vichaar/hello-world-with-operator-sdk-526d956452ed?source=rss----c14892e87db1---4)
+- [Kubernetes Helm: Not Only a Package Manager](https://medium.com/tech-vichaar/kubernetes-helm-not-only-a-package-manager-ac149b5fb6d5?source=rss----c14892e87db1---4)
+- [Publish your first Production grade Kubernetes app on Google Cloud](https://medium.com/tech-vichaar/publish-your-first-production-grade-kubernetes-app-on-google-cloud-a900d82afe01?source=rss----c14892e87db1---4)
+- [AWS S3 in 10 minutes.](https://medium.com/tech-vichaar/aws-s3-in-10-minutes-a26d067ce354?source=rss----c14892e87db1---4)
+- [Introduction to AWS DynamoDB](https://medium.com/tech-vichaar/introduction-to-aws-dynamodb-df7dadb318c2?source=rss----c14892e87db1---4)
 <!-- BLOG-POST-LIST:END -->
 ---
 
