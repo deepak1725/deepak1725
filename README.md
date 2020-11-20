@@ -69,8 +69,8 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#252](https://github.com/fabric8-analytics/f8a-server-backbone/pull/252) in [fabric8-analytics/f8a-server-backbone](https://github.com/fabric8-analytics/f8a-server-backbone)
-2. 🎉 Merged PR [#177](https://github.com/fabric8-analytics/f8a-stacks-report/pull/177) in [fabric8-analytics/f8a-stacks-report](https://github.com/fabric8-analytics/f8a-stacks-report)
+1. 🎉 Merged PR [#252](https://github.com/fabric8-analytics/f8a-server-backbone/pull/252) in [fabric8-analytics/f8a-server-backbone](https://github.com/fabric8-analytics/f8a-server-backbone)
+2. 💪 Opened PR [#252](https://github.com/fabric8-analytics/f8a-server-backbone/pull/252) in [fabric8-analytics/f8a-server-backbone](https://github.com/fabric8-analytics/f8a-server-backbone)
 3. 💪 Opened PR [#177](https://github.com/fabric8-analytics/f8a-stacks-report/pull/177) in [fabric8-analytics/f8a-stacks-report](https://github.com/fabric8-analytics/f8a-stacks-report)
 4. ❌ Closed PR [#693](https://github.com/fabric8-analytics/fabric8-analytics-server/pull/693) in [fabric8-analytics/fabric8-analytics-server](https://github.com/fabric8-analytics/fabric8-analytics-server)
 5. 🎉 Merged PR [#691](https://github.com/fabric8-analytics/fabric8-analytics-server/pull/691) in [fabric8-analytics/fabric8-analytics-server](https://github.com/fabric8-analytics/fabric8-analytics-server)
