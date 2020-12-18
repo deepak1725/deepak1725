@@ -69,11 +69,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#896](https://github.com/openshiftio/saas-analytics/pull/896) in [openshiftio/saas-analytics](https://github.com/openshiftio/saas-analytics)
-2. ❌ Closed PR [#257](https://github.com/fabric8-analytics/f8a-server-backbone/pull/257) in [fabric8-analytics/f8a-server-backbone](https://github.com/fabric8-analytics/f8a-server-backbone)
-3. 🗣 Commented on [#257](https://github.com/fabric8-analytics/f8a-server-backbone/issues/257) in [fabric8-analytics/f8a-server-backbone](https://github.com/fabric8-analytics/f8a-server-backbone)
-4. ❌ Closed PR [#892](https://github.com/openshiftio/saas-analytics/pull/892) in [openshiftio/saas-analytics](https://github.com/openshiftio/saas-analytics)
-5. 🗣 Commented on [#892](https://github.com/openshiftio/saas-analytics/issues/892) in [openshiftio/saas-analytics](https://github.com/openshiftio/saas-analytics)
+1. 💪 Opened PR [#710](https://github.com/fabric8-analytics/fabric8-analytics-server/pull/710) in [fabric8-analytics/fabric8-analytics-server](https://github.com/fabric8-analytics/fabric8-analytics-server)
+2. 💪 Opened PR [#896](https://github.com/openshiftio/saas-analytics/pull/896) in [openshiftio/saas-analytics](https://github.com/openshiftio/saas-analytics)
+3. ❌ Closed PR [#257](https://github.com/fabric8-analytics/f8a-server-backbone/pull/257) in [fabric8-analytics/f8a-server-backbone](https://github.com/fabric8-analytics/f8a-server-backbone)
+4. 🗣 Commented on [#257](https://github.com/fabric8-analytics/f8a-server-backbone/issues/257) in [fabric8-analytics/f8a-server-backbone](https://github.com/fabric8-analytics/f8a-server-backbone)
+5. ❌ Closed PR [#892](https://github.com/openshiftio/saas-analytics/pull/892) in [openshiftio/saas-analytics](https://github.com/openshiftio/saas-analytics)
 <!--END_SECTION:activity-->
 
 </details>
