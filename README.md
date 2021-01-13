@@ -69,11 +69,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#15](https://github.com/fabric8-analytics/cli-tools/issues/15) in [fabric8-analytics/cli-tools](https://github.com/fabric8-analytics/cli-tools)
-2. 💪 Opened PR [#17](https://github.com/fabric8-analytics/cli-tools/pull/17) in [fabric8-analytics/cli-tools](https://github.com/fabric8-analytics/cli-tools)
-3. 🎉 Merged PR [#270](https://github.com/fabric8-analytics/f8a-server-backbone/pull/270) in [fabric8-analytics/f8a-server-backbone](https://github.com/fabric8-analytics/f8a-server-backbone)
-4. 🗣 Commented on [#15](https://github.com/fabric8-analytics/cli-tools/issues/15) in [fabric8-analytics/cli-tools](https://github.com/fabric8-analytics/cli-tools)
-5. 🗣 Commented on [#903](https://github.com/openshiftio/saas-analytics/issues/903) in [openshiftio/saas-analytics](https://github.com/openshiftio/saas-analytics)
+1. 🎉 Merged PR [#15](https://github.com/fabric8-analytics/cli-tools/pull/15) in [fabric8-analytics/cli-tools](https://github.com/fabric8-analytics/cli-tools)
+2. 🗣 Commented on [#15](https://github.com/fabric8-analytics/cli-tools/issues/15) in [fabric8-analytics/cli-tools](https://github.com/fabric8-analytics/cli-tools)
+3. 💪 Opened PR [#17](https://github.com/fabric8-analytics/cli-tools/pull/17) in [fabric8-analytics/cli-tools](https://github.com/fabric8-analytics/cli-tools)
+4. 🎉 Merged PR [#270](https://github.com/fabric8-analytics/f8a-server-backbone/pull/270) in [fabric8-analytics/f8a-server-backbone](https://github.com/fabric8-analytics/f8a-server-backbone)
+5. 🗣 Commented on [#15](https://github.com/fabric8-analytics/cli-tools/issues/15) in [fabric8-analytics/cli-tools](https://github.com/fabric8-analytics/cli-tools)
 <!--END_SECTION:activity-->
 
 </details>
