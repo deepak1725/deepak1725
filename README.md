@@ -69,11 +69,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#18](https://github.com/fabric8-analytics/cli-tools/pull/18) in [fabric8-analytics/cli-tools](https://github.com/fabric8-analytics/cli-tools)
-2. ❌ Closed PR [#17](https://github.com/fabric8-analytics/cli-tools/pull/17) in [fabric8-analytics/cli-tools](https://github.com/fabric8-analytics/cli-tools)
-3. 🎉 Merged PR [#15](https://github.com/fabric8-analytics/cli-tools/pull/15) in [fabric8-analytics/cli-tools](https://github.com/fabric8-analytics/cli-tools)
-4. 🗣 Commented on [#15](https://github.com/fabric8-analytics/cli-tools/issues/15) in [fabric8-analytics/cli-tools](https://github.com/fabric8-analytics/cli-tools)
-5. 💪 Opened PR [#17](https://github.com/fabric8-analytics/cli-tools/pull/17) in [fabric8-analytics/cli-tools](https://github.com/fabric8-analytics/cli-tools)
+1. ❗️ Opened issue [#17](https://github.com/trango-io/trango-self-hosted/issues/17) in [trango-io/trango-self-hosted](https://github.com/trango-io/trango-self-hosted)
+2. ❗️ Opened issue [#16](https://github.com/trango-io/trango-self-hosted/issues/16) in [trango-io/trango-self-hosted](https://github.com/trango-io/trango-self-hosted)
+3. ❗️ Opened issue [#15](https://github.com/trango-io/trango-self-hosted/issues/15) in [trango-io/trango-self-hosted](https://github.com/trango-io/trango-self-hosted)
+4. 💪 Opened PR [#18](https://github.com/fabric8-analytics/cli-tools/pull/18) in [fabric8-analytics/cli-tools](https://github.com/fabric8-analytics/cli-tools)
+5. ❌ Closed PR [#17](https://github.com/fabric8-analytics/cli-tools/pull/17) in [fabric8-analytics/cli-tools](https://github.com/fabric8-analytics/cli-tools)
 <!--END_SECTION:activity-->
 
 </details>
