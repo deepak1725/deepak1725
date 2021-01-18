@@ -69,11 +69,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#189](https://github.com/fabric8-analytics/f8a-stacks-report/issues/189) in [fabric8-analytics/f8a-stacks-report](https://github.com/fabric8-analytics/f8a-stacks-report)
-2. ❗️ Opened issue [#17](https://github.com/trango-io/trango-self-hosted/issues/17) in [trango-io/trango-self-hosted](https://github.com/trango-io/trango-self-hosted)
-3. ❗️ Opened issue [#16](https://github.com/trango-io/trango-self-hosted/issues/16) in [trango-io/trango-self-hosted](https://github.com/trango-io/trango-self-hosted)
-4. ❗️ Opened issue [#15](https://github.com/trango-io/trango-self-hosted/issues/15) in [trango-io/trango-self-hosted](https://github.com/trango-io/trango-self-hosted)
-5. 💪 Opened PR [#18](https://github.com/fabric8-analytics/cli-tools/pull/18) in [fabric8-analytics/cli-tools](https://github.com/fabric8-analytics/cli-tools)
+1. 💪 Opened PR [#19](https://github.com/fabric8-analytics/cli-tools/pull/19) in [fabric8-analytics/cli-tools](https://github.com/fabric8-analytics/cli-tools)
+2. 🎉 Merged PR [#18](https://github.com/fabric8-analytics/cli-tools/pull/18) in [fabric8-analytics/cli-tools](https://github.com/fabric8-analytics/cli-tools)
+3. 🗣 Commented on [#189](https://github.com/fabric8-analytics/f8a-stacks-report/issues/189) in [fabric8-analytics/f8a-stacks-report](https://github.com/fabric8-analytics/f8a-stacks-report)
+4. ❗️ Opened issue [#17](https://github.com/trango-io/trango-self-hosted/issues/17) in [trango-io/trango-self-hosted](https://github.com/trango-io/trango-self-hosted)
+5. ❗️ Opened issue [#16](https://github.com/trango-io/trango-self-hosted/issues/16) in [trango-io/trango-self-hosted](https://github.com/trango-io/trango-self-hosted)
 <!--END_SECTION:activity-->
 
 </details>
