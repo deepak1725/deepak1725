@@ -69,11 +69,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#22](https://github.com/fabric8-analytics/cli-tools/pull/22) in [fabric8-analytics/cli-tools](https://github.com/fabric8-analytics/cli-tools)
-2. 🎉 Merged PR [#21](https://github.com/fabric8-analytics/cli-tools/pull/21) in [fabric8-analytics/cli-tools](https://github.com/fabric8-analytics/cli-tools)
-3. 💪 Opened PR [#21](https://github.com/fabric8-analytics/cli-tools/pull/21) in [fabric8-analytics/cli-tools](https://github.com/fabric8-analytics/cli-tools)
-4. 💪 Opened PR [#19](https://github.com/fabric8-analytics/cli-tools/pull/19) in [fabric8-analytics/cli-tools](https://github.com/fabric8-analytics/cli-tools)
-5. 🎉 Merged PR [#18](https://github.com/fabric8-analytics/cli-tools/pull/18) in [fabric8-analytics/cli-tools](https://github.com/fabric8-analytics/cli-tools)
+1. 💪 Opened PR [#24](https://github.com/fabric8-analytics/cli-tools/pull/24) in [fabric8-analytics/cli-tools](https://github.com/fabric8-analytics/cli-tools)
+2. 💪 Opened PR [#23](https://github.com/fabric8-analytics/cli-tools/pull/23) in [fabric8-analytics/cli-tools](https://github.com/fabric8-analytics/cli-tools)
+3. ❌ Closed PR [#22](https://github.com/fabric8-analytics/cli-tools/pull/22) in [fabric8-analytics/cli-tools](https://github.com/fabric8-analytics/cli-tools)
+4. 🎉 Merged PR [#19](https://github.com/fabric8-analytics/cli-tools/pull/19) in [fabric8-analytics/cli-tools](https://github.com/fabric8-analytics/cli-tools)
+5. 💪 Opened PR [#22](https://github.com/fabric8-analytics/cli-tools/pull/22) in [fabric8-analytics/cli-tools](https://github.com/fabric8-analytics/cli-tools)
 <!--END_SECTION:activity-->
 
 </details>
