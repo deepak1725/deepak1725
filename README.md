@@ -70,10 +70,10 @@
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#190](https://github.com/fabric8-analytics/f8a-stacks-report/issues/190) in [fabric8-analytics/f8a-stacks-report](https://github.com/fabric8-analytics/f8a-stacks-report)
-2. 💪 Opened PR [#190](https://github.com/fabric8-analytics/f8a-stacks-report/pull/190) in [fabric8-analytics/f8a-stacks-report](https://github.com/fabric8-analytics/f8a-stacks-report)
-3. 🎉 Merged PR [#26](https://github.com/fabric8-analytics/cli-tools/pull/26) in [fabric8-analytics/cli-tools](https://github.com/fabric8-analytics/cli-tools)
-4. 💪 Opened PR [#26](https://github.com/fabric8-analytics/cli-tools/pull/26) in [fabric8-analytics/cli-tools](https://github.com/fabric8-analytics/cli-tools)
-5. ❗️ Closed issue [#1036](https://github.com/fabric8-analytics/fabric8-analytics-common/issues/1036) in [fabric8-analytics/fabric8-analytics-common](https://github.com/fabric8-analytics/fabric8-analytics-common)
+2. 🗣 Commented on [#190](https://github.com/fabric8-analytics/f8a-stacks-report/issues/190) in [fabric8-analytics/f8a-stacks-report](https://github.com/fabric8-analytics/f8a-stacks-report)
+3. 🗣 Commented on [#190](https://github.com/fabric8-analytics/f8a-stacks-report/issues/190) in [fabric8-analytics/f8a-stacks-report](https://github.com/fabric8-analytics/f8a-stacks-report)
+4. 💪 Opened PR [#190](https://github.com/fabric8-analytics/f8a-stacks-report/pull/190) in [fabric8-analytics/f8a-stacks-report](https://github.com/fabric8-analytics/f8a-stacks-report)
+5. 🎉 Merged PR [#26](https://github.com/fabric8-analytics/cli-tools/pull/26) in [fabric8-analytics/cli-tools](https://github.com/fabric8-analytics/cli-tools)
 <!--END_SECTION:activity-->
 
 </details>
