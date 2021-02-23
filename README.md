@@ -69,11 +69,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#128](https://github.com/devconfcz/devconf/issues/128) in [devconfcz/devconf](https://github.com/devconfcz/devconf)
-2. 🎉 Merged PR [#28](https://github.com/fabric8-analytics/cli-tools/pull/28) in [fabric8-analytics/cli-tools](https://github.com/fabric8-analytics/cli-tools)
-3. 💪 Opened PR [#28](https://github.com/fabric8-analytics/cli-tools/pull/28) in [fabric8-analytics/cli-tools](https://github.com/fabric8-analytics/cli-tools)
-4. 🗣 Commented on [#27](https://github.com/fabric8-analytics/cli-tools/issues/27) in [fabric8-analytics/cli-tools](https://github.com/fabric8-analytics/cli-tools)
-5. 🗣 Commented on [#2066](https://github.com/goreleaser/goreleaser/issues/2066) in [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+1. 💪 Opened PR [#191](https://github.com/fabric8-analytics/f8a-stacks-report/pull/191) in [fabric8-analytics/f8a-stacks-report](https://github.com/fabric8-analytics/f8a-stacks-report)
+2. ❗️ Opened issue [#128](https://github.com/devconfcz/devconf/issues/128) in [devconfcz/devconf](https://github.com/devconfcz/devconf)
+3. 🎉 Merged PR [#28](https://github.com/fabric8-analytics/cli-tools/pull/28) in [fabric8-analytics/cli-tools](https://github.com/fabric8-analytics/cli-tools)
+4. 💪 Opened PR [#28](https://github.com/fabric8-analytics/cli-tools/pull/28) in [fabric8-analytics/cli-tools](https://github.com/fabric8-analytics/cli-tools)
+5. 🗣 Commented on [#27](https://github.com/fabric8-analytics/cli-tools/issues/27) in [fabric8-analytics/cli-tools](https://github.com/fabric8-analytics/cli-tools)
 <!--END_SECTION:activity-->
 
 </details>
