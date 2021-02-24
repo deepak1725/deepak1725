@@ -69,11 +69,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#192](https://github.com/fabric8-analytics/f8a-stacks-report/pull/192) in [fabric8-analytics/f8a-stacks-report](https://github.com/fabric8-analytics/f8a-stacks-report)
-2. 💪 Opened PR [#191](https://github.com/fabric8-analytics/f8a-stacks-report/pull/191) in [fabric8-analytics/f8a-stacks-report](https://github.com/fabric8-analytics/f8a-stacks-report)
-3. ❗️ Opened issue [#128](https://github.com/devconfcz/devconf/issues/128) in [devconfcz/devconf](https://github.com/devconfcz/devconf)
-4. 🎉 Merged PR [#28](https://github.com/fabric8-analytics/cli-tools/pull/28) in [fabric8-analytics/cli-tools](https://github.com/fabric8-analytics/cli-tools)
-5. 💪 Opened PR [#28](https://github.com/fabric8-analytics/cli-tools/pull/28) in [fabric8-analytics/cli-tools](https://github.com/fabric8-analytics/cli-tools)
+1. 💪 Opened PR [#944](https://github.com/openshiftio/saas-analytics/pull/944) in [openshiftio/saas-analytics](https://github.com/openshiftio/saas-analytics)
+2. 🎉 Merged PR [#192](https://github.com/fabric8-analytics/f8a-stacks-report/pull/192) in [fabric8-analytics/f8a-stacks-report](https://github.com/fabric8-analytics/f8a-stacks-report)
+3. 💪 Opened PR [#192](https://github.com/fabric8-analytics/f8a-stacks-report/pull/192) in [fabric8-analytics/f8a-stacks-report](https://github.com/fabric8-analytics/f8a-stacks-report)
+4. 💪 Opened PR [#191](https://github.com/fabric8-analytics/f8a-stacks-report/pull/191) in [fabric8-analytics/f8a-stacks-report](https://github.com/fabric8-analytics/f8a-stacks-report)
+5. ❗️ Opened issue [#128](https://github.com/devconfcz/devconf/issues/128) in [devconfcz/devconf](https://github.com/devconfcz/devconf)
 <!--END_SECTION:activity-->
 
 </details>
