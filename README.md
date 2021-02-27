@@ -34,9 +34,9 @@
 [<img align="left" alt="Git" title="Git" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][website]
 [<img align="left" alt="Angular" title="Angular" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />][website]
 [<img align="left" alt="JavaScript" title="JavaScript" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][website]
-[<img align="left" alt="Heroku" title="Heroku" width="36px" src="https://github.com/github/explore/raw/master/topics/heroku/heroku.png" />][website]
-[<img align="left" alt="TypeScript" title="TypeScript" width="36px" src="https://github.com/github/explore/raw/master/topics/typescript/typescript.png" />][website]
-[<img align="left" alt="Elastic Search" title="ElasticSearch" width="36px" src="https://github.com/github/explore/raw/master/topics/elasticsearch/elasticsearch.png" />][website]
+[<img align="left" alt="Heroku" title="Heroku" width="36px" src="https://github.com/github/explore/blob/main/topics/heroku/heroku.png" />][website]
+[<img align="left" alt="TypeScript" title="TypeScript" width="36px" src="https://github.com/github/explore/blob/main/topics/typescript/typescript.png" />][website]
+[<img align="left" alt="Elastic Search" title="ElasticSearch" width="36px" src="https://github.com/github/explore/raw/main/topics/elasticsearch/elasticsearch.png" />][website]
 
 <br />
 <br />
