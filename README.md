@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning Kubernetes Operators.
 - :heart: I love Kubernetes. 
 - 👯 I’m looking to collaborate with like minded Professionals.
-- 🥅 2021 Goals: Get CKA Certified.
+- 🥅 2021 Goals: ~~Certified Kubernetes Adminstrator.~~ ✅  [View Certificate](https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/5dedb6b4-1a66-48eb-b30a-dc3b2b4def6c-deepak-sharma-certified-kubernetes-administrator-cka-certificate.pdf) 
 - ⚡ Fun fact: I love Chess and Football.
 
 
