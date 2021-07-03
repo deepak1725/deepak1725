@@ -34,9 +34,9 @@
 [<img align="left" alt="Git" title="Git" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][website]
 [<img align="left" alt="Angular" title="Angular" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />][website]
 [<img align="left" alt="JavaScript" title="JavaScript" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][website]
-[<img align="left" alt="Heroku" title="Heroku" width="36px" src="https://github.com/github/explore/raw/master/topics/heroku/heroku.png" />][website]
-[<img align="left" alt="TypeScript" title="TypeScript" width="36px" src="https://github.com/github/explore/raw/master/topics/typescript/typescript.png" />][website]
-[<img align="left" alt="Elastic Search" title="ElasticSearch" width="36px" src="https://github.com/github/explore/raw/master/topics/elasticsearch/elasticsearch.png" />][website]
+[<img align="left" alt="Heroku" title="Heroku" width="36px" src="https://github.com/github/explore/blob/0a775229bb1202b86234329460f461371b0ab82a/topics/heroku/heroku.png" />][website]
+[<img align="left" alt="TypeScript" title="TypeScript" width="36px" src="https://github.com/github/explore/raw/main/topics/typescript/typescript.png" />][website]
+[<img align="left" alt="Elastic Search" title="ElasticSearch" width="36px" src="https://github.com/github/explore/raw/main/topics/elasticsearch/elasticsearch.png" />][website]
 
 <br />
 <br />
@@ -65,7 +65,6 @@
 
 ---
 
-<details>
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
@@ -76,14 +75,11 @@
 5. 🎉 Merged PR [#691](https://github.com/fabric8-analytics/fabric8-analytics-server/pull/691) in [fabric8-analytics/fabric8-analytics-server](https://github.com/fabric8-analytics/fabric8-analytics-server)
 <!--END_SECTION:activity-->
 
-</details>
 
-<details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="deepak1725's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=deepak1725&show_icons=true&hide_border=true" />
+  <img align="left" alt="deepak1725's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=deepak1725&show_icons=true&hide_border=false" />
 
-</details>
 
 [sql]: https://finddeepak.com
 [python]: https://finddeepak.com
