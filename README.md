@@ -5,8 +5,8 @@
 ## I'm a Engineer, Learner and Mentor!!
 
 - 🔭 I am Software Engineer at Red Hat, India.
-- 🌱 I’m currently learning Kubernetes Operators.
-- :heart: I love Kubernetes. 
+- 🌱 I’m a Beginner Photographer.
+- :heart: I love Kubernetes. Python and Golang are my favorite tools. 
 - 👯 I’m looking to collaborate with like minded Professionals.
 - 🥅 2021 Goals: ~~Certified Kubernetes Adminstrator.~~ ✅  [View Certificate](https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/5dedb6b4-1a66-48eb-b30a-dc3b2b4def6c-deepak-sharma-certified-kubernetes-administrator-cka-certificate.pdf) 
 - ⚡ Fun fact: I love Chess and Football.
@@ -36,7 +36,7 @@
 [<img align="left" alt="JavaScript" title="JavaScript" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][website]
 [<img align="left" alt="Heroku" title="Heroku" width="36px" src="https://github.com/github/explore/blob/0a775229bb1202b86234329460f461371b0ab82a/topics/heroku/heroku.png" />][website]
 [<img align="left" alt="TypeScript" title="TypeScript" width="36px" src="https://github.com/github/explore/raw/main/topics/typescript/typescript.png" />][website]
-[<img align="left" alt="Elastic Search" title="ElasticSearch" width="36px" src="https://github.com/github/explore/raw/main/topics/elasticsearch/elasticsearch.png" />][website]
+[<img align="left" alt="Golang" title="Golang" width="36px" src="https://github.com/github/explore/blob/0a775229bb1202b86234329460f461371b0ab82a/topics/go/go.png" />][website]
 
 <br />
 <br />
@@ -65,7 +65,7 @@
 
 ---
 
-  <summary>:zap: Recent GitHub Activity</summary>
+### :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#252](https://github.com/fabric8-analytics/f8a-server-backbone/pull/252) in [fabric8-analytics/f8a-server-backbone](https://github.com/fabric8-analytics/f8a-server-backbone)
@@ -76,7 +76,7 @@
 <!--END_SECTION:activity-->
 
 
-  <summary>:zap: GitHub Stats</summary>
+### :zap: GitHub Stats
 
   <img align="left" alt="deepak1725's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=deepak1725&show_icons=true&hide_border=false" />
 
