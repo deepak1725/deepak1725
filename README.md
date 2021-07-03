@@ -66,11 +66,11 @@
 ### :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#252](https://github.com/fabric8-analytics/f8a-server-backbone/pull/252) in [fabric8-analytics/f8a-server-backbone](https://github.com/fabric8-analytics/f8a-server-backbone)
-2. 💪 Opened PR [#252](https://github.com/fabric8-analytics/f8a-server-backbone/pull/252) in [fabric8-analytics/f8a-server-backbone](https://github.com/fabric8-analytics/f8a-server-backbone)
-3. 💪 Opened PR [#177](https://github.com/fabric8-analytics/f8a-stacks-report/pull/177) in [fabric8-analytics/f8a-stacks-report](https://github.com/fabric8-analytics/f8a-stacks-report)
-4. ❌ Closed PR [#693](https://github.com/fabric8-analytics/fabric8-analytics-server/pull/693) in [fabric8-analytics/fabric8-analytics-server](https://github.com/fabric8-analytics/fabric8-analytics-server)
-5. 🎉 Merged PR [#691](https://github.com/fabric8-analytics/fabric8-analytics-server/pull/691) in [fabric8-analytics/fabric8-analytics-server](https://github.com/fabric8-analytics/fabric8-analytics-server)
+1. 🗣 Commented on [#1924](https://github.com/integr8ly/integreatly-operator/issues/1924) in [integr8ly/integreatly-operator](https://github.com/integr8ly/integreatly-operator)
+2. 🗣 Commented on [#1924](https://github.com/integr8ly/integreatly-operator/issues/1924) in [integr8ly/integreatly-operator](https://github.com/integr8ly/integreatly-operator)
+3. 🗣 Commented on [#1924](https://github.com/integr8ly/integreatly-operator/issues/1924) in [integr8ly/integreatly-operator](https://github.com/integr8ly/integreatly-operator)
+4. 💪 Opened PR [#1924](https://github.com/integr8ly/integreatly-operator/pull/1924) in [integr8ly/integreatly-operator](https://github.com/integr8ly/integreatly-operator)
+5. 🎉 Merged PR [#301](https://github.com/fabric8-analytics/f8a-server-backbone/pull/301) in [fabric8-analytics/f8a-server-backbone](https://github.com/fabric8-analytics/f8a-server-backbone)
 <!--END_SECTION:activity-->
 
 
