@@ -66,11 +66,11 @@
 ### :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1924](https://github.com/integr8ly/integreatly-operator/issues/1924) in [integr8ly/integreatly-operator](https://github.com/integr8ly/integreatly-operator)
+1. ❗️ Opened issue [#223](https://github.com/inlets/inlets/issues/223) in [inlets/inlets](https://github.com/inlets/inlets)
 2. 🗣 Commented on [#1924](https://github.com/integr8ly/integreatly-operator/issues/1924) in [integr8ly/integreatly-operator](https://github.com/integr8ly/integreatly-operator)
 3. 🗣 Commented on [#1924](https://github.com/integr8ly/integreatly-operator/issues/1924) in [integr8ly/integreatly-operator](https://github.com/integr8ly/integreatly-operator)
-4. 💪 Opened PR [#1924](https://github.com/integr8ly/integreatly-operator/pull/1924) in [integr8ly/integreatly-operator](https://github.com/integr8ly/integreatly-operator)
-5. 🎉 Merged PR [#301](https://github.com/fabric8-analytics/f8a-server-backbone/pull/301) in [fabric8-analytics/f8a-server-backbone](https://github.com/fabric8-analytics/f8a-server-backbone)
+4. 🗣 Commented on [#1924](https://github.com/integr8ly/integreatly-operator/issues/1924) in [integr8ly/integreatly-operator](https://github.com/integr8ly/integreatly-operator)
+5. 💪 Opened PR [#1924](https://github.com/integr8ly/integreatly-operator/pull/1924) in [integr8ly/integreatly-operator](https://github.com/integr8ly/integreatly-operator)
 <!--END_SECTION:activity-->
 
 
