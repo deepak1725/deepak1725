@@ -66,11 +66,11 @@
 ### :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1992](https://github.com/integr8ly/integreatly-operator/issues/1992) in [integr8ly/integreatly-operator](https://github.com/integr8ly/integreatly-operator)
+1. 🗣 Commented on [#142](https://github.com/openshift/oadp-operator/issues/142) in [openshift/oadp-operator](https://github.com/openshift/oadp-operator)
 2. 🗣 Commented on [#1992](https://github.com/integr8ly/integreatly-operator/issues/1992) in [integr8ly/integreatly-operator](https://github.com/integr8ly/integreatly-operator)
-3. 💪 Opened PR [#1992](https://github.com/integr8ly/integreatly-operator/pull/1992) in [integr8ly/integreatly-operator](https://github.com/integr8ly/integreatly-operator)
-4. 💪 Opened PR [#1980](https://github.com/integr8ly/integreatly-operator/pull/1980) in [integr8ly/integreatly-operator](https://github.com/integr8ly/integreatly-operator)
-5. ❗️ Opened issue [#223](https://github.com/inlets/inlets/issues/223) in [inlets/inlets](https://github.com/inlets/inlets)
+3. 🗣 Commented on [#1992](https://github.com/integr8ly/integreatly-operator/issues/1992) in [integr8ly/integreatly-operator](https://github.com/integr8ly/integreatly-operator)
+4. 💪 Opened PR [#1992](https://github.com/integr8ly/integreatly-operator/pull/1992) in [integr8ly/integreatly-operator](https://github.com/integr8ly/integreatly-operator)
+5. 💪 Opened PR [#1980](https://github.com/integr8ly/integreatly-operator/pull/1980) in [integr8ly/integreatly-operator](https://github.com/integr8ly/integreatly-operator)
 <!--END_SECTION:activity-->
 
 
