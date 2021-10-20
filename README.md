@@ -59,7 +59,7 @@
 - [AWS S3 in 10 minutes.](https://medium.com/tech-vichaar/aws-s3-in-10-minutes-a26d067ce354?source=rss----c14892e87db1---4)
 - [Introduction to AWS DynamoDB](https://medium.com/tech-vichaar/introduction-to-aws-dynamodb-df7dadb318c2?source=rss----c14892e87db1---4)
 <!-- BLOG-POST-LIST:END -->
-- [‘Hello, World’ tutorial with Kubernetes Operators](https://developers.redhat.com/blog/2020/08/21/hello-world-tutorial-with-kubernetes-operators/120100/?sc_cid=7013a000002h14YAAQ)
+- [‘Hello, World’ tutorial with Kubernetes Operators](https://developers.redhat.com/blog/2020/08/21/hello-world-tutorial-with-kubernetes-operators)
 
 ---
 
