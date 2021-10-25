@@ -69,8 +69,8 @@
 1. 🗣 Commented on [#30212](https://github.com/kubernetes/website/issues/30212) in [kubernetes/website](https://github.com/kubernetes/website)
 2. 🗣 Commented on [#30212](https://github.com/kubernetes/website/issues/30212) in [kubernetes/website](https://github.com/kubernetes/website)
 3. 🗣 Commented on [#30212](https://github.com/kubernetes/website/issues/30212) in [kubernetes/website](https://github.com/kubernetes/website)
-4. 💪 Opened PR [#30212](https://github.com/kubernetes/website/pull/30212) in [kubernetes/website](https://github.com/kubernetes/website)
-5. 🗣 Commented on [#1992](https://github.com/integr8ly/integreatly-operator/issues/1992) in [integr8ly/integreatly-operator](https://github.com/integr8ly/integreatly-operator)
+4. 🗣 Commented on [#30212](https://github.com/kubernetes/website/issues/30212) in [kubernetes/website](https://github.com/kubernetes/website)
+5. 💪 Opened PR [#30212](https://github.com/kubernetes/website/pull/30212) in [kubernetes/website](https://github.com/kubernetes/website)
 <!--END_SECTION:activity-->
 
 
