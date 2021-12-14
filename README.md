@@ -66,10 +66,10 @@
 ### :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#30298](https://github.com/kubernetes/website/issues/30298) in [kubernetes/website](https://github.com/kubernetes/website)
-2. 💪 Opened PR [#30298](https://github.com/kubernetes/website/pull/30298) in [kubernetes/website](https://github.com/kubernetes/website)
-3. 🗣 Commented on [#30212](https://github.com/kubernetes/website/issues/30212) in [kubernetes/website](https://github.com/kubernetes/website)
-4. 🗣 Commented on [#30212](https://github.com/kubernetes/website/issues/30212) in [kubernetes/website](https://github.com/kubernetes/website)
+1. 🗣 Commented on [#245](https://github.com/stackrox/kube-linter/issues/245) in [stackrox/kube-linter](https://github.com/stackrox/kube-linter)
+2. ❗️ Opened issue [#245](https://github.com/stackrox/kube-linter/issues/245) in [stackrox/kube-linter](https://github.com/stackrox/kube-linter)
+3. 🗣 Commented on [#30298](https://github.com/kubernetes/website/issues/30298) in [kubernetes/website](https://github.com/kubernetes/website)
+4. 💪 Opened PR [#30298](https://github.com/kubernetes/website/pull/30298) in [kubernetes/website](https://github.com/kubernetes/website)
 5. 🗣 Commented on [#30212](https://github.com/kubernetes/website/issues/30212) in [kubernetes/website](https://github.com/kubernetes/website)
 <!--END_SECTION:activity-->
 
