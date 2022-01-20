@@ -66,11 +66,11 @@
 ### :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#246](https://github.com/stackrox/kube-linter/issues/246) in [stackrox/kube-linter](https://github.com/stackrox/kube-linter)
-2. 💪 Opened PR [#140](https://github.com/app-sre/deployment-validation-operator/pull/140) in [app-sre/deployment-validation-operator](https://github.com/app-sre/deployment-validation-operator)
-3. 💪 Opened PR [#246](https://github.com/stackrox/kube-linter/pull/246) in [stackrox/kube-linter](https://github.com/stackrox/kube-linter)
-4. ❗️ Closed issue [#245](https://github.com/stackrox/kube-linter/issues/245) in [stackrox/kube-linter](https://github.com/stackrox/kube-linter)
-5. 🗣 Commented on [#245](https://github.com/stackrox/kube-linter/issues/245) in [stackrox/kube-linter](https://github.com/stackrox/kube-linter)
+1. 🗣 Commented on [#1](https://github.com/deepak1725/hello-operator2/issues/1) in [deepak1725/hello-operator2](https://github.com/deepak1725/hello-operator2)
+2. 🗣 Commented on [#246](https://github.com/stackrox/kube-linter/issues/246) in [stackrox/kube-linter](https://github.com/stackrox/kube-linter)
+3. 💪 Opened PR [#140](https://github.com/app-sre/deployment-validation-operator/pull/140) in [app-sre/deployment-validation-operator](https://github.com/app-sre/deployment-validation-operator)
+4. 💪 Opened PR [#246](https://github.com/stackrox/kube-linter/pull/246) in [stackrox/kube-linter](https://github.com/stackrox/kube-linter)
+5. ❗️ Closed issue [#245](https://github.com/stackrox/kube-linter/issues/245) in [stackrox/kube-linter](https://github.com/stackrox/kube-linter)
 <!--END_SECTION:activity-->
 
 
