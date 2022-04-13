@@ -70,7 +70,7 @@
 2. 🗣 Commented on [#46](https://github.com/rh-cssre/glitchtip-frontend/issues/46) in [rh-cssre/glitchtip-frontend](https://github.com/rh-cssre/glitchtip-frontend)
 3. 🗣 Commented on [#46](https://github.com/rh-cssre/glitchtip-frontend/issues/46) in [rh-cssre/glitchtip-frontend](https://github.com/rh-cssre/glitchtip-frontend)
 4. 🗣 Commented on [#46](https://github.com/rh-cssre/glitchtip-frontend/issues/46) in [rh-cssre/glitchtip-frontend](https://github.com/rh-cssre/glitchtip-frontend)
-5. 🎉 Merged PR [#45](https://github.com/rh-cssre/glitchtip-frontend/pull/45) in [rh-cssre/glitchtip-frontend](https://github.com/rh-cssre/glitchtip-frontend)
+5. 🗣 Commented on [#46](https://github.com/rh-cssre/glitchtip-frontend/issues/46) in [rh-cssre/glitchtip-frontend](https://github.com/rh-cssre/glitchtip-frontend)
 <!--END_SECTION:activity-->
 
 
