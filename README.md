@@ -66,11 +66,11 @@
 ### :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#58](https://github.com/rh-cssre/glitchtip-frontend/pull/58) in [rh-cssre/glitchtip-frontend](https://github.com/rh-cssre/glitchtip-frontend)
-2. 💪 Opened PR [#58](https://github.com/rh-cssre/glitchtip-frontend/pull/58) in [rh-cssre/glitchtip-frontend](https://github.com/rh-cssre/glitchtip-frontend)
-3. 🎉 Merged PR [#57](https://github.com/rh-cssre/glitchtip-frontend/pull/57) in [rh-cssre/glitchtip-frontend](https://github.com/rh-cssre/glitchtip-frontend)
-4. 💪 Opened PR [#57](https://github.com/rh-cssre/glitchtip-frontend/pull/57) in [rh-cssre/glitchtip-frontend](https://github.com/rh-cssre/glitchtip-frontend)
-5. 🎉 Merged PR [#55](https://github.com/rh-cssre/glitchtip-frontend/pull/55) in [rh-cssre/glitchtip-frontend](https://github.com/rh-cssre/glitchtip-frontend)
+1. 🎉 Merged PR [#7](https://github.com/rh-cssre/glitchtip-backend/pull/7) in [rh-cssre/glitchtip-backend](https://github.com/rh-cssre/glitchtip-backend)
+2. 🎉 Merged PR [#59](https://github.com/rh-cssre/glitchtip-frontend/pull/59) in [rh-cssre/glitchtip-frontend](https://github.com/rh-cssre/glitchtip-frontend)
+3. 🎉 Merged PR [#58](https://github.com/rh-cssre/glitchtip-frontend/pull/58) in [rh-cssre/glitchtip-frontend](https://github.com/rh-cssre/glitchtip-frontend)
+4. 💪 Opened PR [#58](https://github.com/rh-cssre/glitchtip-frontend/pull/58) in [rh-cssre/glitchtip-frontend](https://github.com/rh-cssre/glitchtip-frontend)
+5. 🎉 Merged PR [#57](https://github.com/rh-cssre/glitchtip-frontend/pull/57) in [rh-cssre/glitchtip-frontend](https://github.com/rh-cssre/glitchtip-frontend)
 <!--END_SECTION:activity-->
 
 
