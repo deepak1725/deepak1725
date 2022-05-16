@@ -66,11 +66,11 @@
 ### :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/rh-cssre/glitchtip-backend/pull/8) in [rh-cssre/glitchtip-backend](https://github.com/rh-cssre/glitchtip-backend)
-2. 🎉 Merged PR [#61](https://github.com/rh-cssre/glitchtip-frontend/pull/61) in [rh-cssre/glitchtip-frontend](https://github.com/rh-cssre/glitchtip-frontend)
-3. 💪 Opened PR [#61](https://github.com/rh-cssre/glitchtip-frontend/pull/61) in [rh-cssre/glitchtip-frontend](https://github.com/rh-cssre/glitchtip-frontend)
-4. 🎉 Merged PR [#7](https://github.com/rh-cssre/glitchtip-backend/pull/7) in [rh-cssre/glitchtip-backend](https://github.com/rh-cssre/glitchtip-backend)
-5. 🎉 Merged PR [#59](https://github.com/rh-cssre/glitchtip-frontend/pull/59) in [rh-cssre/glitchtip-frontend](https://github.com/rh-cssre/glitchtip-frontend)
+1. 🗣 Commented on [#4059](https://github.com/operator-framework/operator-sdk/issues/4059) in [operator-framework/operator-sdk](https://github.com/operator-framework/operator-sdk)
+2. 🎉 Merged PR [#8](https://github.com/rh-cssre/glitchtip-backend/pull/8) in [rh-cssre/glitchtip-backend](https://github.com/rh-cssre/glitchtip-backend)
+3. 🎉 Merged PR [#61](https://github.com/rh-cssre/glitchtip-frontend/pull/61) in [rh-cssre/glitchtip-frontend](https://github.com/rh-cssre/glitchtip-frontend)
+4. 💪 Opened PR [#61](https://github.com/rh-cssre/glitchtip-frontend/pull/61) in [rh-cssre/glitchtip-frontend](https://github.com/rh-cssre/glitchtip-frontend)
+5. 🎉 Merged PR [#7](https://github.com/rh-cssre/glitchtip-backend/pull/7) in [rh-cssre/glitchtip-backend](https://github.com/rh-cssre/glitchtip-backend)
 <!--END_SECTION:activity-->
 
 
