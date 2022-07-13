@@ -4,7 +4,7 @@
 
 ## I'm a Engineer, Learner and Mentor!!
 
-- 🔭 I am Software Engineer at Red Hat, India.
+- 🔭 I am SRE at Flipkart, India.
 - 🌱 I’m a Beginner Photographer.
 - :heart: I love Kubernetes. Python and Golang are my favorite tools. 
 - 👯 I’m looking to collaborate with like minded Professionals.
