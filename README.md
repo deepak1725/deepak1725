@@ -66,11 +66,11 @@
 ### :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#19](https://github.com/rh-cssre/glitchtip-backend/pull/19) in [rh-cssre/glitchtip-backend](https://github.com/rh-cssre/glitchtip-backend)
-2. 💪 Opened PR [#99](https://github.com/rh-cssre/glitchtip-frontend/pull/99) in [rh-cssre/glitchtip-frontend](https://github.com/rh-cssre/glitchtip-frontend)
-3. 🎉 Merged PR [#97](https://github.com/rh-cssre/glitchtip-frontend/pull/97) in [rh-cssre/glitchtip-frontend](https://github.com/rh-cssre/glitchtip-frontend)
-4. 🎉 Merged PR [#18](https://github.com/rh-cssre/glitchtip-backend/pull/18) in [rh-cssre/glitchtip-backend](https://github.com/rh-cssre/glitchtip-backend)
-5. 🎉 Merged PR [#88](https://github.com/rh-cssre/glitchtip-frontend/pull/88) in [rh-cssre/glitchtip-frontend](https://github.com/rh-cssre/glitchtip-frontend)
+1. ❗️ Opened issue [#231](https://github.com/googleapis/python-monitoring-dashboards/issues/231) in [googleapis/python-monitoring-dashboards](https://github.com/googleapis/python-monitoring-dashboards)
+2. 💪 Opened PR [#19](https://github.com/rh-cssre/glitchtip-backend/pull/19) in [rh-cssre/glitchtip-backend](https://github.com/rh-cssre/glitchtip-backend)
+3. 💪 Opened PR [#99](https://github.com/rh-cssre/glitchtip-frontend/pull/99) in [rh-cssre/glitchtip-frontend](https://github.com/rh-cssre/glitchtip-frontend)
+4. 🎉 Merged PR [#97](https://github.com/rh-cssre/glitchtip-frontend/pull/97) in [rh-cssre/glitchtip-frontend](https://github.com/rh-cssre/glitchtip-frontend)
+5. 🎉 Merged PR [#18](https://github.com/rh-cssre/glitchtip-backend/pull/18) in [rh-cssre/glitchtip-backend](https://github.com/rh-cssre/glitchtip-backend)
 <!--END_SECTION:activity-->
 
 
