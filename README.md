@@ -66,8 +66,8 @@
 ### :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2409](https://github.com/redhat-openshift-ecosystem/community-operators-prod/issues/2409) in [redhat-openshift-ecosystem/community-operators-prod](https://github.com/redhat-openshift-ecosystem/community-operators-prod)
-2. 💪 Opened PR [#19](https://github.com/rh-cssre/glitchtip-backend/pull/19) in [rh-cssre/glitchtip-backend](https://github.com/rh-cssre/glitchtip-backend)
+1. 💪 Opened PR [#34](https://github.com/istioinaction/book-source-code/pull/34) in [istioinaction/book-source-code](https://github.com/istioinaction/book-source-code)
+2. 🗣 Commented on [#2409](https://github.com/redhat-openshift-ecosystem/community-operators-prod/issues/2409) in [redhat-openshift-ecosystem/community-operators-prod](https://github.com/redhat-openshift-ecosystem/community-operators-prod)
 3. 💪 Opened PR [#99](https://github.com/rh-cssre/glitchtip-frontend/pull/99) in [rh-cssre/glitchtip-frontend](https://github.com/rh-cssre/glitchtip-frontend)
 4. 🎉 Merged PR [#97](https://github.com/rh-cssre/glitchtip-frontend/pull/97) in [rh-cssre/glitchtip-frontend](https://github.com/rh-cssre/glitchtip-frontend)
 5. 🎉 Merged PR [#18](https://github.com/rh-cssre/glitchtip-backend/pull/18) in [rh-cssre/glitchtip-backend](https://github.com/rh-cssre/glitchtip-backend)
