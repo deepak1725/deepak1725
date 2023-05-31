@@ -66,7 +66,7 @@
 ### :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#35](https://github.com/istioinaction/book-source-code/issues/35) in [istioinaction/book-source-code](https://github.com/istioinaction/book-source-code)
+1. ❗ Opened issue [#35](https://github.com/istioinaction/book-source-code/issues/35) in [istioinaction/book-source-code](https://github.com/istioinaction/book-source-code)
 2. 💪 Opened PR [#34](https://github.com/istioinaction/book-source-code/pull/34) in [istioinaction/book-source-code](https://github.com/istioinaction/book-source-code)
 3. 🗣 Commented on [#2409](https://github.com/redhat-openshift-ecosystem/community-operators-prod/issues/2409) in [redhat-openshift-ecosystem/community-operators-prod](https://github.com/redhat-openshift-ecosystem/community-operators-prod)
 4. 🎉 Merged PR [#97](https://github.com/rh-cssre/glitchtip-frontend/pull/97) in [rh-cssre/glitchtip-frontend](https://github.com/rh-cssre/glitchtip-frontend)
